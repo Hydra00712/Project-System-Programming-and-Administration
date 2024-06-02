@@ -12,19 +12,19 @@ The script supports the following commands:
 - `search <title>`
 
 ### Commands
-Update a Task
+#### Update a Task
+```sh
 ./todo.sh update <id> "New Title" "2024-07-01" "New Description" "New Location" true
 
-Delete a Task
+#### Delete a Task
+```sh
 ./todo.sh delete <id>
 
 
-Show a Task
+#### Show a Task
+```sh
 ./todo.sh show <id>
 
-
-Search Tasks
-Search Tasks
 
 
 #### Create a Task
